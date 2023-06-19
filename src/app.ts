@@ -1,7 +1,7 @@
 import express, { Application } from 'express'
 import cors from 'cors'
 import globalErrorHandler from './app/middlewares/globalErrorHandler'
-import { UserRoutes } from './app/modules/users/user.route'
+import { UserRoutes } from './app/modules/user/user.route'
 const app: Application = express()
 
 app.use(cors())
@@ -16,8 +16,8 @@ app.use('/api/v1/users', UserRoutes)
 // testing
 // app.get('/', async (req: Request, res: Response, next: NextFunction) => {
 //   // res.send('Working successfully')
-//   // throw new APIError(400, 'Error')
-//   next('Error')
+//   throw new Error('Testing Error logger')
+//   //   Promise.reject(new Error('Unhandel Promise Rejection'))
 // })
 
 //global error handeler
