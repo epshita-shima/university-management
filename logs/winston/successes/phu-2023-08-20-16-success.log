@@ -2,59 +2,71 @@
   message: 'Database is connected suvccesfully',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:11:09.780Z'
+  timestamp: '2023-08-20T10:32:24.617Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:11:09.795Z'
+  timestamp: '2023-08-20T10:32:24.625Z'
 }
 {
   message: 'Database is connected suvccesfully',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:19:08.909Z'
+  timestamp: '2023-08-20T10:44:38.265Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:19:08.925Z'
+  timestamp: '2023-08-20T10:44:38.280Z'
 }
 {
   message: 'Database is connected suvccesfully',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:29:43.981Z'
+  timestamp: '2023-08-20T10:52:53.421Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:29:43.991Z'
+  timestamp: '2023-08-20T10:52:53.430Z'
 }
 {
   message: 'Database is connected suvccesfully',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:30:55.208Z'
+  timestamp: '2023-08-20T10:53:19.402Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:30:55.218Z'
+  timestamp: '2023-08-20T10:53:19.412Z'
 }
 {
   message: 'Database is connected suvccesfully',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:31:56.723Z'
+  timestamp: '2023-08-20T10:56:22.726Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2023-08-19T11:31:56.731Z'
+  timestamp: '2023-08-20T10:56:22.739Z'
+}
+{
+  message: 'Database is connected suvccesfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-08-20T10:56:25.165Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-08-20T10:56:25.173Z'
 }
